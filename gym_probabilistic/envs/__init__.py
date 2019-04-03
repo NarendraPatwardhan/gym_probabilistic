@@ -1,0 +1,6 @@
+from gym_probabilistic.envs.cartpole import CartPoleEnv
+from gym_probabilistic.envs.mountain_car import MountainCarEnv
+from gym_probabilistic.envs.continuous_mountain_car import Continuous_MountainCarEnv
+from gym_probabilistic.envs.pendulum import PendulumEnv
+from gym_probabilistic.envs.acrobot import AcrobotEnv
+
